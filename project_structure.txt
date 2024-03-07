@@ -1,0 +1,33 @@
+project/
+│
+├── public/
+│   ├── index.html
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── styles/
+│   │   └── scripts/
+│   │       └── map.js
+│   └── data/
+│       └── map_data.json
+│
+├── src/
+│   ├── components/
+│   │   ├── Header/
+│   │   │   ├── Header.js
+│   │   │   └── Header.css
+│   │   ├── Map/
+│   │   │   ├── Map.js
+│   │   │   └── Map.css
+│   │   └── Dashboard/
+│   │       ├── Dashboard.js
+│   │       └── Dashboard.css
+│   └── App.js
+│
+├── server/
+│   ├── database/
+│   │   └── map_data.csv
+│   └── server.js
+│
+├── package.json
+└── README.md
+└── project_structure.txt
