@@ -1,4 +1,4 @@
-# right-impact
+# Right Impact
 
 ## Contents
 
